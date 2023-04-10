@@ -1,0 +1,1 @@
+Get-Date | Add-Content -Path "E:\Google Drive\Python_Projects\APIServerFlask\ps-output.txt"
